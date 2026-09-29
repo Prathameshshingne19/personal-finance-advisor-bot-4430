@@ -1,0 +1,6 @@
+{
+  "name": "Personal Finance Advisor Bot",
+  "description": "AI-powered personal finance advisor bot for Prathamesh Shingme featuring intelligent budget generation, income and expense tracking, savings progress, and automated financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
